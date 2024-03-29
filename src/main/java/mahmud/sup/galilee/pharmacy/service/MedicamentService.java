@@ -1,6 +1,6 @@
-package mahmud.sup.galilee.pharmacy;
+package mahmud.sup.galilee.pharmacy.service;
 
-import mahmud.sup.galilee.pharmacy.Medicament;
+import mahmud.sup.galilee.pharmacy.model.Medicament;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

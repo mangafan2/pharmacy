@@ -1,7 +1,7 @@
-package mahmud.sup.galilee.pharmacy;
+package mahmud.sup.galilee.pharmacy.controller;
 
-import mahmud.sup.galilee.pharmacy.Medicament;
-import mahmud.sup.galilee.pharmacy.MedicamentService;
+import mahmud.sup.galilee.pharmacy.service.MedicamentService;
+import mahmud.sup.galilee.pharmacy.model.Medicament;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

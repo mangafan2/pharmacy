@@ -1,4 +1,4 @@
-package mahmud.sup.galilee.pharmacy;
+package mahmud.sup.galilee.pharmacy.model;
 
 public class Medicament {
 
